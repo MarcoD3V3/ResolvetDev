@@ -1,0 +1,32 @@
+.InputProblem {
+  width: 100%;
+	background-color: #6663;
+	height: 40px;
+	border-radius: 12px;
+	border: 0.2px solid #9995;
+	display: grid;
+	grid-template-columns: 5% 90% 5%;
+	align-items: center;
+	justify-content: center;
+
+	.iconSearch {
+		cursor: pointer;
+		color: #444;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.inputSearch {
+		width: 100%;
+		color: #999;
+		background-color: transparent;
+		outline: none;
+	}
+	.iconFilter {
+		cursor: pointer;
+		color: #444;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}
