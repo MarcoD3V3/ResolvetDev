@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { atomDark } from "react-syntax-highlighter/dist/esm/styles/prism";
 import { useRouter } from "next/navigation";
-import styles from "./ResultProblem.module.css";
+import styles from "./ResultProblem.module.scss";
 import ProblemsAPI from "@/api/Problems";
 
 interface Problem {

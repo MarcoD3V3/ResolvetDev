@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./InputProblem.module.css";
+import styles from "./InputProblem.module.scss";
 import { BiSearchAlt2 } from "@react-icons/all-files/bi/BiSearchAlt2";
 import FilterAltIcon from "@mui/icons-material/FilterAlt";
 

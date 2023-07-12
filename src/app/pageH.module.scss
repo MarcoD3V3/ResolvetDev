@@ -1,33 +1,32 @@
 .all {
-	position: relative;
-	.Home {
-		padding: 20px;
-		display: flex;
-		flex-wrap: wrap;
-		.tittleSearch {
-			color: #999;
-			width: 100%;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			font-size: xx-large;
-			padding: 0px 0px 10px 0px;
-			font-family: "Caprasimo", cursive;
-		}
-	}
-	.Cbutton {
-		display: flex;
-		align-content: center;
-		justify-content: center;
-		background-color: #fff;
-		position: fixed;
-		bottom: 10vh;
-		right: 10vw;
-		width: 90px;
-		height: 90px;
-		border-radius: 100%;
-	}
-	.ScrollToTop{
-		
-	}
+  position: relative;
+  .Home {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    .tittleSearch {
+      color: #999;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: xx-large;
+      padding: 0px 0px 10px 0px;
+      font-family: "Caprasimo", cursive;
+    }
+  }
+  .Cbutton {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: #fff;
+    position: fixed;
+    bottom: 10vh;
+    right: 10vw;
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+  }
+  .ScrollToTop {
+  }
 }

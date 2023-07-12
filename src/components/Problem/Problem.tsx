@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./Problem.module.css";
+import styles from "./Problem.module.scss";
 import { InputProblem } from "@/components";
 import { ResultProblem } from "@/components";
 
